@@ -2,9 +2,9 @@
 
 
 🔭 I’m Ahmed Abdelhady, i'm 25 Years  ...
-- I'm Front End Developer
+   I'm Front End Developer
 
-# ✔ My Stack
+# **✔ My Stack**
 - HTML5
 - CSS3
 - BOOTSTRAP
@@ -20,6 +20,6 @@
 - 📫 How to reach me: ...
 - c++ 
 - JAVA
-# 👇CONTACT WITH ME
+# 👇**CONTACT WITH ME**
 [Linkedin](https://www.linkedin.com/in/ahmedabdelhady92/)
 
