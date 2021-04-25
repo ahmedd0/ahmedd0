@@ -17,9 +17,10 @@
 - SOLID  Principles
 - Data Structures
 - Algorithms
-- 📫 How to reach me: ...
+- SQL
 - c++ 
 - JAVA
 # 👇CONTACT WITH ME
-[Linkedin](https://www.linkedin.com/in/ahmedabdelhady92/)
+[Linkedin Profile](https://www.linkedin.com/in/ahmedabdelhady92/)  
+[WhatsApp](https://api.whatsapp.com/send?phone=201025184848)
 
