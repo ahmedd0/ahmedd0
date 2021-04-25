@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ahmedd0/ahmedd0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 🔭 I’m Ahmed Abdelhady, i'm 25 Years  ...
 - I'm Front End Developer
@@ -27,4 +23,4 @@ Here are some ideas to get you started:
 - JAVA
 # Cobtact With Me
 [Linkedin](https://www.linkedin.com/in/ahmedabdelhady92/)
--->
+
