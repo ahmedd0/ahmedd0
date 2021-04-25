@@ -1,8 +1,8 @@
 # Hi there 👋
 
 
-🔭 I’m Ahmed Abdelhady, i'm 25 Years old ...  
-   I'm Front End Developer
+<p>🔭 I’m Ahmed Abdelhady, i'm 25 Years old ...  </p>
+<p> I'm Front End Developer </p>
 
 # ✔My Stack
 - HTML5
@@ -21,6 +21,6 @@
 - c++ 
 - JAVA
 # 👇CONTACT WITH ME
-[Linkedin Profile](https://www.linkedin.com/in/ahmedabdelhady92/)  
-[WhatsApp](https://api.whatsapp.com/send?phone=201025184848)
+<a href="https://www.linkedin.com/in/ahmedabdelhady92/" taget="_blank">LinkedIn</a>  
+<a href="https://api.whatsapp.com/send?phone=201025184848" taget="_blank">WhatsApp</a>
 
