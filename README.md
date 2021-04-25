@@ -1,10 +1,10 @@
 # Hi there 👋
 
 
-<p>🔭 I’m Ahmed Abdelhady, i'm 25 Years old ...  </p>
-<p> I'm Front End Developer </p>
+<p style="color:#09c">🔭I’m Ahmed Abdelhady, i'm 25 Years old ...  </p>
+<p style="color:#09c">I'm Front End Developer </p>
 
-# ✔My Stack
+# ✔ My Stack
 - HTML5
 - CSS3
 - BOOTSTRAP
