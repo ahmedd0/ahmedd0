@@ -14,6 +14,8 @@
 - AJAX
 - OOP
 - ES6
+- Angular
+- React
 - SOLID  Principles
 - Data Structures
 - Algorithms
